@@ -5,9 +5,8 @@
 
     <!-- List posts -->
     <div class="posts">
-      <PostCard v-for="edge in $page.posts.edges" :key="edge.node.id" :post="edge.node"/>
+      <PostCard v-for="edge in $page.posts.edges" :key="edge.node.id" :post="edge.node" />
     </div>
-
   </Layout>
 </template>
 
@@ -24,10 +23,9 @@
           title
           path
         }
-        date (format: "D. MMMM YYYY")
+        date (format: "MMMM D, YYYY")
         timeToRead
         description
-        coverImage (width: 770, height: 380, blur: 10)
         ...on Post {
             id
             title
@@ -40,8 +38,8 @@
 </page-query>
 
 <script>
-import Author from '~/components/Author.vue'
-import PostCard from '~/components/PostCard.vue'
+import Author from "~/components/Author.vue";
+import PostCard from "~/components/PostCard.vue";
 
 export default {
   components: {
@@ -49,7 +47,7 @@ export default {
     PostCard
   },
   metaInfo: {
-    title: 'Home'
+    title: "Home"
   }
-}
+};
 </script>

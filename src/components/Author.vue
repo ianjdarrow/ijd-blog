@@ -6,7 +6,7 @@
 
     <p class="author__links">
       <a href="//twitter.com/ianjdarrow">Twitter</a>
-      <a href="https://github.com/ianjdarros">GitHub</a>
+      <a href="https://github.com/ianjdarrow">GitHub</a>
     </p>
   </div>
 </template>

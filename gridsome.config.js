@@ -8,7 +8,7 @@ module.exports = {
   siteName: 'Ian Darrow',
   siteDescription:
     'Thoughts on technology, policy, software engineering, and law.',
-
+  icon: './favicon.ico',
   plugins: [
     {
       // Create posts from markdown files
@@ -17,6 +17,9 @@ module.exports = {
         typeName: 'Post',
         path: 'content/posts/*.md',
         route: '/:slug',
+        remark: {
+          plugins: ['gridsome-plugin-remark-twitter']
+        },
         refs: {
           // Creates a GraphQL collection from 'tags' in front-matter and adds a reference.
           tags: {
