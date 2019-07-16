@@ -11,7 +11,7 @@ description: >-
 
 The Senate Banking Committee spent about two hours questioning David Marcus, the fintech entrepreneur Facebook has tasked with heading its Libra payment network. A few takeaways:
 
-##### What happens when validators operating under different sets of laws disagree?
+##### What happens when validators operating under different compliance frameworks disagree?
 
 Financial regulation today centers on banks, who are responsible for both _how_ and _whether_ we ship money around. Put differently, banks have to build both technology and compliance infrastructure. Compliance mostly happens at the level of national and local laws – true "international law" is pretty limited.
 
@@ -25,7 +25,7 @@ It's _hard_ for a centralized company today to argue that it should look a lot l
 
 https://twitter.com/valkenburgh/status/1151156618425507840
 
-If that sounds scary, here's another one: if a Libra node in China refused to process a transaction to an American religious organization, would you leave the Libra Association?
+If that sounds scary, here's the same question put differently: if a Libra node in China refused to process a transaction to an American religious organization, would you leave the Libra Association?
 
 Marcus eventually got to the right answer on this: enforcement of local laws happens at the edges, at locally-regulated banks and exchanges, just like the rest of the financial system. But he also went on a scary tangent about how Libra might be able to police payments for regulated goods like Facebook currently restricts posts and ads.
 
