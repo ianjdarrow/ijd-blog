@@ -19,7 +19,7 @@ One of Bitcoin's major innovations was separating these two concerns and _only_ 
 
 [TCP](https://en.wikipedia.org/wiki/Transmission_Control_Protocol) is a good example of handling content neutrally. It describes an agreed-upon way for _any_ computer to ship _any_ bits around. Different countries enforce different content regimes on top of TCP, which works really well. But implementing local rules at the network layer would break the system and make it local, not global.
 
-It's _hard_ for a centralized company today to argue that it should look a lot like a bank – even holding lots of customer funds! – but not be responsible for compliance. Libra needs to make that argument, and hasn't. Trying to handle both doesn't work in a global network with a bunch of overlapping and sometimes contradictory laws at play.
+It's _hard_ for a centralized company today to argue that it should look a lot like a bank – even holding lots of customer funds! – but not be responsible for compliance. Libra needs to make that argument, and then tell a compelling story about who will handle compliance. It hasn't. Trying to handle both pieces yourself doesn't work in a global network with a bunch of overlapping and sometimes contradictory laws at play.
 
 [Coin Center](https://coincenter.org)'s Peter Van Valkenburgh illustrates why:
 
