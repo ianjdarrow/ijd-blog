@@ -11,15 +11,15 @@ description: >-
 
 The Senate Banking Committee spent about two hours questioning David Marcus, the fintech entrepreneur Facebook has tasked with heading its Libra payment network. A few takeaways:
 
-##### The Libra Association needs better answers on hard international compliance questions
+##### What happens when validators operating under different sets of laws disagree?
 
-Financial regulation today centers on banks, who are responsible for both _how_ and _whether_ we ship money around. Put differently, banks have to build both technology and compliance infrastructure.
+Financial regulation today centers on banks, who are responsible for both _how_ and _whether_ we ship money around. Put differently, banks have to build both technology and compliance infrastructure. Compliance mostly happens at the national level or lower.
 
-One of Bitcoin's major innovations was separating these two concerns and _only_ answering the "how." This is a great idea. Crypto networks are basic infrastructure, like the internet, so it's a good idea for them to be content-neutral.
+One of Bitcoin's major innovations was separating these two concerns and _only_ answering the "how." This is a great idea for a global medium of exchange. Crypto networks are basic infrastructure, like the internet, so it's a good idea for them to be content-neutral.
 
 [TCP](https://en.wikipedia.org/wiki/Transmission_Control_Protocol) is a good example of handling content neutrally. It describes an agreed-upon way for _any_ computer to ship _any_ bits around. Different countries enforce different content regimes on top of TCP, which works really well. But implementing local rules at the network layer would break the system and make it local, not global.
 
-It's _hard_ for a centralized company today to argue that it should look a lot like a bank – even holding lots of customer funds! – but not be responsible for compliance. Libra needs to make that argument, and hasn't. Trying to do it all doesn't work in a global network with contradictory laws at play.
+It's _hard_ for a centralized company today to argue that it should look a lot like a bank – even holding lots of customer funds! – but not be responsible for compliance. Libra needs to make that argument, and hasn't. Trying to handle both doesn't work in a global network with a bunch of overlapping and sometimes contradictory laws at play.
 
 [Coin Center](https://coincenter.org)'s Peter Van Valkenburgh illustrates why:
 
@@ -39,7 +39,7 @@ Marcus played a little fast and loose with his description of Libra as "open sou
 
 Senators were right on top of attempts to conflate Libra with permissionless networks. One senator pushed back on Marcus, saying "you're making an argument for cryptocurrencies, not Libra." This is amazing, and leads to my next takeaway:
 
-##### Senators have gotten smart on cryptocurrency quickly
+##### Senators have quickly gotten smart on cryptocurrency
 
 The quality of questions at this hearing was high. The issues are dense, but I don't remember any cryptocurrency-related questions that were way off base. Kudos to the senators and their staff for being well-prepared.
 
