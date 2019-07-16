@@ -13,7 +13,7 @@ The Senate Banking Committee spent about two hours questioning David Marcus, the
 
 ##### What happens when validators operating under different sets of laws disagree?
 
-Financial regulation today centers on banks, who are responsible for both _how_ and _whether_ we ship money around. Put differently, banks have to build both technology and compliance infrastructure. Compliance mostly happens at the national level or lower.
+Financial regulation today centers on banks, who are responsible for both _how_ and _whether_ we ship money around. Put differently, banks have to build both technology and compliance infrastructure. Compliance mostly happens at the level of national and local laws – true "international law" is pretty limited.
 
 One of Bitcoin's major innovations was separating these two concerns and _only_ answering the "how." This is a great idea for a global medium of exchange. Crypto networks are basic infrastructure, like the internet, so it's a good idea for them to be content-neutral.
 
