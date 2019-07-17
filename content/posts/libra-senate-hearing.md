@@ -21,7 +21,7 @@ One of Bitcoin's major innovations was separating these two concerns and _only_ 
 
 It's _hard_ for a centralized company today to argue that it should look a lot like a bank – even holding lots of customer funds! – but not be responsible for compliance. Libra needs to make that argument, and then tell a compelling story about who will handle compliance. It hasn't. Trying to handle both pieces yourself doesn't work in a global network with a bunch of overlapping and sometimes contradictory laws at play.
 
-[Coin Center](https://coincenter.org)'s Peter Van Valkenburgh illustrates why:
+But all Libra Association members have to agree that the same transactions are OK, because blockchain. Yikes! [Coin Center](https://coincenter.org)'s Peter Van Valkenburgh illustrates why:
 
 https://twitter.com/valkenburgh/status/1151156618425507840
 
